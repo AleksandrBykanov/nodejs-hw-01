@@ -12,5 +12,26 @@
     "phone": "(344) 952-6094 x6492",
     "email": "Aleen39@yahoo.com",
     "job": "Senior Solutions Director"
+  },
+  {
+    "id": "9b3effd7-e5f3-4229-8bbb-85ae7f283532",
+    "name": "Dr. Kyle Hackett",
+    "phone": "1-963-596-3357 x9555",
+    "email": "Sincere.Erdman73@yahoo.com",
+    "job": "Principal Quality Planner"
+  },
+  {
+    "id": "caa9f42a-6a57-402d-9498-c34674cf130a",
+    "name": "Joyce Kub",
+    "phone": "1-582-236-2239 x461",
+    "email": "Shakira.Abernathy@yahoo.com",
+    "job": "Lead Optimization Orchestrator"
+  },
+  {
+    "id": "ff9ffe9f-7dd3-48ec-9977-2f4bf3228d19",
+    "name": "Darnell Rau V",
+    "phone": "(689) 696-4575 x42559",
+    "email": "Kayley47@yahoo.com",
+    "job": "Corporate Research Planner"
   }
 ]
